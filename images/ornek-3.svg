@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1100" width="1100" height="1100" role="img" aria-label="Ornek gorsel 3">
+  <defs><radialGradient id="c" cx="0.5" cy="0.4" r="0.7"><stop offset="0" stop-color="#2b2420"/><stop offset="1" stop-color="#121214"/></radialGradient></defs>
+  <rect width="1100" height="1100" fill="url(#c)"/>
+  <g fill="none" stroke="#c9a227" stroke-width="1.5" opacity="0.5">
+    <rect x="250" y="250" width="600" height="600"/><rect x="340" y="340" width="420" height="420"/><rect x="430" y="430" width="240" height="240"/>
+  </g>
+  <text x="550" y="1010" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#8a857c" letter-spacing="6">ORNEK GORSEL 3</text>
+</svg>

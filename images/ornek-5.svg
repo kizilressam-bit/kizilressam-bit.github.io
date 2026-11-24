@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1400" width="1000" height="1400" role="img" aria-label="Ornek gorsel 4">
+  <defs><linearGradient id="d" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e1a24"/><stop offset="1" stop-color="#14181a"/></linearGradient></defs>
+  <rect width="1000" height="1400" fill="url(#d)"/>
+  <g fill="none" stroke="#8a857c" stroke-width="1.2" opacity="0.6">
+    <path d="M160 1120 C 360 760, 640 980, 840 540"/><path d="M160 1000 C 400 700, 620 880, 840 420"/>
+  </g>
+  <circle cx="700" cy="330" r="90" fill="none" stroke="#c9a227" stroke-width="2" opacity="0.6"/>
+  <text x="500" y="1250" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#8a857c" letter-spacing="6">ORNEK GORSEL 4</text>
+</svg>
